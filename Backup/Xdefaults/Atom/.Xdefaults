@@ -1,0 +1,31 @@
+urxvt*background: black
+urxvt*foreground: white
+urxvt*cursorColor: #d0d0d0
+
+
+urxvt*color0: #191919
+urxvt*color1: #a40000
+urxvt*color2: #4E9A06
+urxvt*color3: #986801
+urxvt*color4: #3465A4
+urxvt*color5: #75507B
+urxvt*color6: #ce5c00
+urxvt*color7: #babdb9
+urxvt*color8: #555753
+urxvt*color9: #EF2929
+urxvt*color10: #8AE234
+urxvt*color11: #986801
+urxvt*color12: #4078F2
+urxvt*color13: #A626A4
+urxvt*color14: #0184BC
+urxvt*color15: #ffffff
+
+urxvt*depth: 32
+urxvt*background: rgba:0000/0000/0200/c800
+#urxvt*transparent:	true
+#urxvt*shading:	15
+URxvt.font:	xft:UbuntuMonoderivativePowerline:size=12
+URxvt.scrollBar:	false
+URxvt.cursorBlink: 1
+URxvt.cursorUnderline: 1
+
